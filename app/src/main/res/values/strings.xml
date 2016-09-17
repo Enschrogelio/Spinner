@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="textp">Lista Pokémon</string>
+
+
+    <string-array name="Pokemon">
+
+        <item>Pikachu</item>
+        <item>Venusaur</item>
+        <item>Charmander</item>
+        <item>Squirtle</item>
+        <item>Caterpie</item>
+        <item>Weedle</item>
+        <item>Pidgey</item>
+        <item>Rattata</item>
+        <item>Spearow</item>
+        <item>Ekans</item>
+        <item>Sandshrew</item>
+        <item>Nidoran</item>
+        <item>Clefairy</item>
+    </string-array>
+</resources>
